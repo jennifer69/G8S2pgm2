@@ -108,9 +108,6 @@
                         <next>
                           <block type="oled_drawtext" id="142">
                             <field name="TEXT">look behind u </field>
-                            <next>
-                              <block type="oled_cleardisplay" id="165"></block>
-                            </next>
                           </block>
                         </next>
                       </block>
